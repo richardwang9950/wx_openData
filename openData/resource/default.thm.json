@@ -1,0 +1,10 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/TestSkin/btnSkin.exml",
+		"resource/TestSkin/nima.exml",
+		"resource/TestSkin/test.exml"
+	],
+	"path": "resource/default.thm.json"
+}

@@ -1,0 +1,115 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,bun_bg3_hs_png,bun_bg3_hs_cf_png,bun_bg3_hs_dj_png,bun_bg3_ls_png,bun_bg3_ls_cf_png,bun_bg3_ls_dj_png,button_png,dui_png,dui1_png,Helot_09_png,phb1_png,phb2_png,phb3_png,qt_47_png,rankingtitle_png,shouye_3_png,tiltle_qqphb_png,tongyonk_bg_png,tongyonk_bg6_png,itembg_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bun_bg3_hs_png",
+			"type": "image",
+			"url": "rankingList/bun_bg3_hs.png"
+		},
+		{
+			"name": "bun_bg3_hs_cf_png",
+			"type": "image",
+			"url": "rankingList/bun_bg3_hs_cf.png"
+		},
+		{
+			"name": "bun_bg3_hs_dj_png",
+			"type": "image",
+			"url": "rankingList/bun_bg3_hs_dj.png"
+		},
+		{
+			"name": "bun_bg3_ls_png",
+			"type": "image",
+			"url": "rankingList/bun_bg3_ls.png"
+		},
+		{
+			"name": "bun_bg3_ls_cf_png",
+			"type": "image",
+			"url": "rankingList/bun_bg3_ls_cf.png"
+		},
+		{
+			"name": "bun_bg3_ls_dj_png",
+			"type": "image",
+			"url": "rankingList/bun_bg3_ls_dj.png"
+		},
+		{
+			"name": "button_png",
+			"type": "image",
+			"url": "rankingList/button.png"
+		},
+		{
+			"name": "dui_png",
+			"type": "image",
+			"url": "rankingList/dui.png"
+		},
+		{
+			"name": "dui1_png",
+			"type": "image",
+			"url": "rankingList/dui1.png"
+		},
+		{
+			"name": "Helot_09_png",
+			"type": "image",
+			"url": "rankingList/Helot_09.png"
+		},
+		{
+			"name": "phb1_png",
+			"type": "image",
+			"url": "rankingList/phb1.png"
+		},
+		{
+			"name": "phb2_png",
+			"type": "image",
+			"url": "rankingList/phb2.png"
+		},
+		{
+			"name": "phb3_png",
+			"type": "image",
+			"url": "rankingList/phb3.png"
+		},
+		{
+			"name": "qt_47_png",
+			"type": "image",
+			"url": "rankingList/qt_47.png"
+		},
+		{
+			"name": "rankingtitle_png",
+			"type": "image",
+			"url": "rankingList/rankingtitle.png"
+		},
+		{
+			"name": "shouye_3_png",
+			"type": "image",
+			"url": "rankingList/shouye_3.png"
+		},
+		{
+			"name": "tiltle_qqphb_png",
+			"type": "image",
+			"url": "rankingList/tiltle_qqphb.png"
+		},
+		{
+			"name": "tongyonk_bg_png",
+			"type": "image",
+			"url": "rankingList/tongyonk_bg.png"
+		},
+		{
+			"name": "tongyonk_bg6_png",
+			"type": "image",
+			"url": "rankingList/tongyonk_bg6.png"
+		},
+		{
+			"name": "itembg_jpg",
+			"type": "image",
+			"url": "assets/itembg.jpg"
+		}
+	]
+}

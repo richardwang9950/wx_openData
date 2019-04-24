@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,882646219480720208_png,884123855432430447_png,button_down_png,button_up_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "882646219480720208_png",
+			"type": "image",
+			"url": "882646219480720208.png"
+		},
+		{
+			"name": "884123855432430447_png",
+			"type": "image",
+			"url": "884123855432430447.png"
+		},
+		{
+			"name": "button_down_png",
+			"type": "image",
+			"url": "assets/Button/button_down.png"
+		},
+		{
+			"name": "button_up_png",
+			"type": "image",
+			"url": "assets/Button/button_up.png"
+		}
+	]
+}
